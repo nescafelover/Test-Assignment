@@ -1,0 +1,17 @@
+---
+title: "My Submission"
+author: "Signe Højbjerg"
+date: "2026-10-08"
+output: html_document
+---
+
+## Reasons why version control is useful
+1. So the research data is reproducible
+2. So there is order in your data
+3. To help make sure your data is open and readable to others
+
+### Code snippet box
+```{r}
+1+1
+```
+
