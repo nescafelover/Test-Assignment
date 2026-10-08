@@ -37,3 +37,6 @@ vignettes/*.pdf
 
 # R Environment Variables
 .Renviron
+
+# Prevent users to commit their own .RProj
+*.Rproj.user
