@@ -1,3 +1,6 @@
+# Owner: Signe Højbjerg
+#Created: 08/10/2026
+
 # Makes a flower pattern
 
 t  <- 1:500
